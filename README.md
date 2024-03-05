@@ -1,6 +1,6 @@
 # Profile Card 📱💼
 
-![Profile Card](profile-card-preview.png)
+![Profile Card](design/mobile-design.jpg)
 
 ## Description
 
