@@ -28,6 +28,8 @@ The Profile Card project is a responsive web component designed to showcase a so
 
   ![Profile Card](design/mobile-design.jpg)
 
+  ![Profile Card](design/desktop-design.jpg)
+
   
 
  
