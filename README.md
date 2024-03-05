@@ -1,7 +1,5 @@
 # Profile Card 📱💼
 
-![Profile Card](design/mobile-design.jpg)
-
 ## Description
 
 The Profile Card project is a responsive web component designed to showcase a social media profile card. It offers a visually appealing layout displaying essential user information such as name, age, location, and key metrics like followers, likes, and photos.
@@ -25,5 +23,11 @@ The Profile Card project is a responsive web component designed to showcase a so
 
 - Special thanks to Google Fonts for providing the "Kumbh Sans" font family.
 - Credits to SVG designers for the background patterns used in the project.
+
+  ## Screenshots
+
+  ![Profile Card](design/mobile-design.jpg)
+
+  
 
  
